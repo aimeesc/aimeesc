@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aimeesc
-- 👀 I’m interested in all kinds of immersive technology/project.
+- 👀 I’m interested in all kinds of immersive technology/projects, specially AR HMDs.
 - 🌱 I’m currently learning how to survive as a PhD candidate
 - 📫 You can get in touch through ascalepso@inf.ufrgs.br
 
